@@ -21,8 +21,8 @@ I build intelligent systems that understand, generate, and reason with human lan
 - Research on **[AGI]**  
 
 ## 🎓 Background  
-- **Education**: [Degree/University] | [Certifications]  
-- **Experience**: [Current Role @ Company] | [Past Highlights]  
+- **Education**: [Bachelor/Kazan Federal University]
+- **Experience**: [LexRus/ML-engineer]
 
 ## 📫 Let's Connect  
 - **Twitter/LinkedIn**: [@handle]  
