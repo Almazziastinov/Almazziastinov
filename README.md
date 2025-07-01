@@ -25,9 +25,8 @@ I build intelligent systems that understand, generate, and reason with human lan
 - **Experience**: [LexRus/ML-engineer]
 
 ## 📫 Let's Connect  
-- **Twitter/LinkedIn**: [@handle]  
-- **Portfolio**: [yourwebsite.com]  
-- **Email**: [hello@yourdomain.com]  
+- **Tg**: [https://t.me/almaz_ziastinov]  
+- **Email**: [ziastinovalmaz@gmail.com]  
 
 ---  
 *"The best way to predict the future is to invent it." — Alan Kay*  
